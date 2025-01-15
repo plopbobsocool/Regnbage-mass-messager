@@ -7,7 +7,7 @@ intents.members = True  # Required to fetch members
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Replace with your bot token
-BOT_TOKEN = "MTMyOTA2Mzk5NjY0NDUyODE2OA.G-siZW.nwna3VNuXjf4PRUIiEbx8WduOBYbvaVenN6-pI"
+BOT_TOKEN = "MTMyOTA2Mzk5NjY0NDUyODE2OA.GiKQv6.naOwo8lRYKhQF15js6nOsUHpUIgea9V4B-3wYc"
 
 @bot.event
 async def on_ready():
